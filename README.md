@@ -1,6 +1,6 @@
 # [Thesis Title]
 
-![Thesis Cover Image](cover_image.jpg)
+![Thesis Cover Image.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Abstract
 
