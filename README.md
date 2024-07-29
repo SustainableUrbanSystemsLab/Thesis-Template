@@ -32,10 +32,6 @@
 
 [List the main keywords or topics related to your thesis.]
 
-## Acknowledgments
-
-[Acknowledge individuals, organizations, or funding sources that contributed to or supported your research.]
-
 ## License
 
 [Specify the license under which your thesis and associated materials are distributed. For example, Creative Commons Attribution 4.0 International (CC BY 4.0).]
@@ -47,7 +43,3 @@
 ## Contact
 
 For any questions or inquiries, please contact [Your Name] at [Your Email Address].
-
----
-
-[Include any additional sections or information specific to your thesis or research field.]
