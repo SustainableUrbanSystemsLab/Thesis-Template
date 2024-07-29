@@ -1,6 +1,6 @@
 # [Thesis Title]
 
-<img src="https://myoctocat.com/assets/images/base-octocat.svg" max-width="250px">
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="250px">
 
 ## Abstract
 
