@@ -24,10 +24,6 @@
 - `appendices/`: Directory containing additional materials, supplementary information, or appendices.
 - `README.md`: This file, providing an overview of the thesis and repository.
 
-## Abstract
-
-[Provide a more detailed abstract of your thesis, including the research background, objectives, methodology, results, and conclusions.]
-
 ## Keywords
 
 [List the main keywords or topics related to your thesis.]
